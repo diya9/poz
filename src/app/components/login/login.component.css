@@ -1,5 +1,9 @@
+h4{
+	color: tomato;
+	font-family: 'Kavivanar', cursive;
+}
 .form-group,h4{
-	margin-left: 400px; 
+	margin-left: 300px; 
 }
 label{
 	color: pink;
